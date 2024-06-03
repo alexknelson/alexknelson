@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @alexknelson
-- 🌱 I’m currently learning Microsoft Azure 104
 
 <!---
 alexknelson/alexknelson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
